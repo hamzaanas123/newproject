@@ -10,4 +10,4 @@ api_version: 1
 
 handlers:
 - url: /.*
-  script: helloworld.py
+  script: main.py
