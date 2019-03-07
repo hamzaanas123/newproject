@@ -7,4 +7,4 @@ COPY . /usr/src/app
 
 EXPOSE 8080
 
-CMD ["python", "./helloworld.py" ]
+CMD ["python", "./main.py" ]
